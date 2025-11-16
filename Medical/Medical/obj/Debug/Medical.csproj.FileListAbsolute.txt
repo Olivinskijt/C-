@@ -1,8 +1,0 @@
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\bin\Debug\Medical.exe.config
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\bin\Debug\Medical.exe
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\bin\Debug\Medical.pdb
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\obj\Debug\Medical.csproj.AssemblyReference.cache
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\obj\Debug\Medical.exe
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\obj\Debug\Medical.pdb
-C:\Users\Olivinskiy\source\repos\C-\Medical\Medical\obj\Debug\Medical.exe.config
