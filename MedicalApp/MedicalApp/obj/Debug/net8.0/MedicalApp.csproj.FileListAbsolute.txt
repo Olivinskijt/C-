@@ -1,0 +1,15 @@
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\bin\Debug\net8.0\MedicalApp.exe
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\bin\Debug\net8.0\MedicalApp.deps.json
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\bin\Debug\net8.0\MedicalApp.runtimeconfig.json
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\bin\Debug\net8.0\MedicalApp.dll
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\bin\Debug\net8.0\MedicalApp.pdb
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.AssemblyInfoInputs.cache
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.AssemblyInfo.cs
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.csproj.CoreCompileInputs.cache
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.sourcelink.json
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.dll
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\refint\MedicalApp.dll
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.pdb
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\MedicalApp.genruntimeconfig.cache
+C:\Users\Olivinskiy\source\repos\C-\MedicalApp\MedicalApp\obj\Debug\net8.0\ref\MedicalApp.dll

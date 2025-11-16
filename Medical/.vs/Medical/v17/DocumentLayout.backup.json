@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\hospitaldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\hospitaldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\hospitalroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\hospitalroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\medical\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AE245-549F-4B87-B7B7-478287076275}|Medical\\Medical.csproj|solutionrelative:medical\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\hospitalmanagementtests\\doctortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|solutionrelative:hospitalmanagementtests\\doctortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\hospitalmanagementtests\\patienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|solutionrelative:hospitalmanagementtests\\patienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\hospitalmanagementtests\\medicalrecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|solutionrelative:hospitalmanagementtests\\medicalrecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\hospitalmanagementtests\\hospitaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|solutionrelative:hospitalmanagementtests\\hospitaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|c:\\users\\olivinskiy\\source\\repos\\c-\\medical\\hospitalmanagementtests\\hospitalroomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B325BBA-6F87-0698-DE94-11CD981FC9ED}|HospitalManagementTests\\HospitalManagementTests.csproj|solutionrelative:hospitalmanagementtests\\hospitalroomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Program.cs",
+              "RelativeDocumentMoniker": "Medical\\Program.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Program.cs",
+              "RelativeToolTip": "Medical\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:54:35.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Patient.cs",
+              "RelativeDocumentMoniker": "Medical\\Patient.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Patient.cs",
+              "RelativeToolTip": "Medical\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:54:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Medical\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\MedicalRecord.cs",
+              "RelativeToolTip": "Medical\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\HospitalRoom.cs",
+              "RelativeDocumentMoniker": "Medical\\HospitalRoom.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\HospitalRoom.cs",
+              "RelativeToolTip": "Medical\\HospitalRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\HospitalDemo.cs",
+              "RelativeDocumentMoniker": "Medical\\HospitalDemo.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\HospitalDemo.cs",
+              "RelativeToolTip": "Medical\\HospitalDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Hospital.cs",
+              "RelativeDocumentMoniker": "Medical\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Hospital.cs",
+              "RelativeToolTip": "Medical\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Doctor.cs",
+              "RelativeDocumentMoniker": "Medical\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\Medical\\Doctor.cs",
+              "RelativeToolTip": "Medical\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientTests.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\PatientTests.cs",
+              "RelativeDocumentMoniker": "HospitalManagementTests\\PatientTests.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\PatientTests.cs",
+              "RelativeToolTip": "HospitalManagementTests\\PatientTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicalRecordTests.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\MedicalRecordTests.cs",
+              "RelativeDocumentMoniker": "HospitalManagementTests\\MedicalRecordTests.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\MedicalRecordTests.cs",
+              "RelativeToolTip": "HospitalManagementTests\\MedicalRecordTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\DoctorTests.cs",
+              "RelativeDocumentMoniker": "HospitalManagementTests\\DoctorTests.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\DoctorTests.cs",
+              "RelativeToolTip": "HospitalManagementTests\\DoctorTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:18.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HospitalTests.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\HospitalTests.cs",
+              "RelativeDocumentMoniker": "HospitalManagementTests\\HospitalTests.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\HospitalTests.cs",
+              "RelativeToolTip": "HospitalManagementTests\\HospitalTests.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAowEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:26.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HospitalRoomTests.cs",
+              "DocumentMoniker": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\HospitalRoomTests.cs",
+              "RelativeDocumentMoniker": "HospitalManagementTests\\HospitalRoomTests.cs",
+              "ToolTip": "C:\\Users\\Olivinskiy\\source\\repos\\C-\\Medical\\HospitalManagementTests\\HospitalRoomTests.cs",
+              "RelativeToolTip": "HospitalManagementTests\\HospitalRoomTests.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:24.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
